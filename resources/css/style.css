@@ -1,1 +1,5 @@
 /*Main page styles*/
+body {
+  background-color: white;
+  color: black;
+}

@@ -3,26 +3,54 @@ body {
   background-color: white;
   color: black;
   text-align: center;
+  font-family: Helvetica;
 }
 
 .header {
+  background-image: url(../images/the-flatiron-building.jpg);
+  background-position: center;
   background-color: gray;
   color: white;
+}
+
+.header h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
 
 .header a {
   color: inherit;
+  font-size: 18px;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
 
 .companyDetails h2 {
-  background-color: gray;
+  background-image: url(../images/the-flatiron-building.jpg);
+  background-position: center;
+  background-color: dimgray;
   color: white;
+  font-size: 23px;
+  font-weight: bold;
 }
 
-.footer {
-  background-color: gray;
-  color: white
+.footer p {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
 }
 
 .footer a {

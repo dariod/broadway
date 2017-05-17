@@ -8,6 +8,7 @@ body {
 
 .header {
   background-image: url(../images/the-flatiron-building.jpg);
+  /*background-size: cover;*/
   background-position: 85%, 0%;
   background-color: gray;
   color: white;
@@ -39,7 +40,7 @@ p {
 
 .companyDetails h2 {
   background-image: url(../images/the-flatiron-building.jpg);
-  background-position: 85%, 0%;
+  background-size: cover;
   background-color: dimgray;
   color: white;
   font-size: 23px;
